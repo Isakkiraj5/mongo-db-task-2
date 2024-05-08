@@ -1,0 +1,1 @@
+#solved all the mentioned quries using mongo db
